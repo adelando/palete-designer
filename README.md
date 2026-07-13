@@ -2,7 +2,7 @@
 
 A single-file, offline-first tool for turning two brand colours into a complete, accessible light + dark colour system — with WCAG readability checked automatically on every token.
 
-No build step, no dependencies, no server. Open `palette-forge.html` in a browser and it works.
+No build step, no dependencies, no server. Open `palette.html` in a browser and it works.
 
 ---
 
